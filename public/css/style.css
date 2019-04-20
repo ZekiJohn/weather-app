@@ -1,0 +1,31 @@
+body{
+    color: #333333;
+    padding: 0 16px;
+    margin: 0 auto;
+    max-width: 650px;
+}
+
+/* h1 {
+    color: blueviolet;
+} */
+img {
+    width: 400px;
+    height: auto;
+}
+footer {
+    color: #888888;
+    border-top: 1px solid #eeeeee;
+}
+header{
+    margin-bottom: 30px;
+}
+header h1{
+    font-size: 64px;
+    margin-bottom: 20px;
+}
+header a {
+    text-decoration: none;
+    color: #888888;
+    margin-right: 5px;
+
+}
